@@ -1,0 +1,9 @@
+name: Lobi
+api: 5.0.0
+version: 1
+main: TR8697\Main
+description: lobi plugini
+
+permissions:
+  lobi.kullan:
+    default: true
